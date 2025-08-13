@@ -1,1 +1,1 @@
-# Test-VuaSachCu
+# Personal project: Test online bookstore 'VuaSachCu'
